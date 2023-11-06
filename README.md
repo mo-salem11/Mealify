@@ -14,7 +14,6 @@ Let me walk you through the key sections of Mealify:
 
 5️⃣ Footer: The footer section serves as a hub for additional information, such as social media links, copyright notices, and terms of service.
 
-You can explore the Mealify website on GitHub as well. Feel free to check out the repository at [GitHub repository link], where you can find the project's source code, documentation, and contribute to its development.
 
 I'm thrilled to have had the opportunity to develop Mealify, and I invite you to visit the website and experience the seamless blend of design and functionality. Let's embark on a culinary journey together!
 
