@@ -970,20 +970,30 @@ padding-bottom:12px;
     cursor: pointer;
 }
 @media(max-width:767px){
+    .footer .container .subscription-container .subscription-box{
+        flex-direction: column;
+        gap:12px;
+    }
     .footer  .subscription-container .subscription-box input{
         height:40px;
         font-size:16px;
+        border-radius: 4px;
+        width:100%;
     }
     .footer  .subscription-container .subscription-box button{
         height: 40px;
-        font-size: 11px;
+        font-size: 15px;
         display: flex;
-        flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap: 1px;
-        padding:20px 10px;
+        gap: 5px;
+        padding: 20px 27px;
+        align-self: flex-end;
+        border-radius: 5px;
     } 
+    .footer  .subscription-container .subscription-box button:hover{
+        transform: scale(1.04);
+    }
 }
 .footer  .subscription-container .subscription-box button:hover{
     background-color: var(--main-hover-color);
